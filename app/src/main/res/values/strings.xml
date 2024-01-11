@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Team21</string>
+
+    <string name="channel_name">Sticker</string>
+    <string name="channel_description">Sticker Notification</string>
+    <string name="channel_id">Team_21_Sticker_Notification</string>
+    <string name="title_activity_foggy">FoggyActivity</string>
+    <string name="title_Landing">Landing</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756422261941",
+    "firebase_url": "https://foggy-adventure-trail-default-rtdb.firebaseio.com",
+    "project_id": "foggy-adventure-trail",
+    "storage_bucket": "foggy-adventure-trail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756422261941:android:c333d27c74cc57af5a52fc",
+        "android_client_info": {
+          "package_name": "edu.northeastern.team21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756422261941-3r88bgh3cqelcgl67dgfrqght02vo6ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzMmO1-lfHppkxBMVawgbs1ngzjWcz34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756422261941-3r88bgh3cqelcgl67dgfrqght02vo6ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

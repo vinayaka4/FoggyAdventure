@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sticker_array">
+        <!--    add sticker items to this    -->
+        <item>@drawable/sticker_dog</item>
+        <item>@drawable/sticker_cat</item>
+        <item>@drawable/sticker_bear</item>
+        <item>@drawable/sticker_elephant</item>
+    </array>
+</resources>
